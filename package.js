@@ -1,6 +1,6 @@
 Package.describe({
   "summary": "Performance Monitoring for Meteor",
-  "version": "3.2.4",
+  "version": "3.2.5",
   "git": "https://github.com/meteor/meteor-apm-agent.git",
   "name": "mdg:meteor-apm-agent"
 });
@@ -10,7 +10,6 @@ var npmModules = {
   "kadira-core": "1.3.2",
   "pidusage": "1.0.1",
   "evloop-monitor": "0.1.0",
-  "pidusage": "0.1.1",
   "lru-cache": "4.0.0",
   "json-stringify-safe": "5.0.1",
   "uuid": "3.3.2"
