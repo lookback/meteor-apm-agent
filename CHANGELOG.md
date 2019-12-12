@@ -1,5 +1,9 @@
 # Changelog
 
+### v3.2.5
+
+* Fix log `[object Object]` issue. See [meteor#10078](https://github.com/meteor/meteor/issues/10078).Thx @zodern.
+
 ### v3.2.0
 
 * Remove dependency on `meteorhacks:meteorx`.
