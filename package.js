@@ -1,8 +1,8 @@
 Package.describe({
   "summary": "Performance Monitoring for Meteor",
   "version": "3.2.5",
-  "git": "https://github.com/meteor/meteor-apm-agent.git",
-  "name": "mdg:meteor-apm-agent"
+  "git": "https://github.com/lookback/meteor-apm-agent.git",
+  "name": "lookback:meteor-apm-agent"
 });
 
 var npmModules = {
